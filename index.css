@@ -33,7 +33,7 @@ nav a {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px 30px;
+    padding: 10px 15% 50px;
     background-color:#1F2937;
     color: #F9FAF8;
 }
@@ -70,7 +70,7 @@ nav a {
 }
 
 .info-section {
-    padding: 50px 20px;
+    padding: 30px 6%;
     text-align: center;
 }
 
@@ -95,7 +95,7 @@ nav a {
 .quote-section {
     background-color: #e5e7eb;
     text-align: center;
-    padding: 50px 20px;
+    padding: 10px 15%;
     font-style: light italic;
 }
 
@@ -117,12 +117,13 @@ nav a {
     color: white;
 }
 
-footer
+.cta-section footer
     {
         background-color: #3882F6;
         display: flex;
         justify-content: center;
-        padding: 10px 10px
+        padding: 30px 5%;
+        margin: 50px 15%;
     }
 
 .cta-section button {
